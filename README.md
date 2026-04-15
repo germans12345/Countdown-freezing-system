@@ -1,11 +1,3 @@
-# README.md（可直接复制）
-
-````markdown
-# 🎯 Rule Experiment Mini Project 01  
-## Countdown Freeze System
-
----
-
 ## 📌 项目简介
 
 这是一个基于 **Python + pygame** 的规则实验型小项目。
